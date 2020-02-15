@@ -22,7 +22,7 @@
 ## 安装
 
 ```bash
-composer require f-oris/easy-bytedance-miniapp
+composer require jzweb/bytedance-miniapp
 ```
 
 ## 基本使用
