@@ -1,9 +1,9 @@
 {
-    "name": "f-oris/easy-bytedance-miniapp",
+    "name": "jzweb/bytedance-miniapp",
     "description": "字节跳动小程序SDK",
     "keywords": [
         "byte dance",
-        "miniapp",
+        "mini app",
         "byte dance sdk",
         "mini app sdk"
     ],

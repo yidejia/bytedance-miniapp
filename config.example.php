@@ -1,19 +1,13 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: f-oris
- * Date: 2019/6/13
- * Time: 3:38 PM
- */
 
 return [
     /**
-     * toutiao mini-app AppId
+     * byte-dance mini-app AppId
      */
     'app_id' => '',
 
     /**
-     * toutiao mini-app AppSecret
+     * byte-dance mini-app AppSecret
      */
     'app_secret' => '',
 
